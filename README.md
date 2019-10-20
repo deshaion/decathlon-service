@@ -1,6 +1,6 @@
 # DECATHLON
 #### How to run
-$java -cp lumin-test-avdonin-1.0-SNAPSHOT.jar com.test.Main -in /path/to/file.csv -out /path/to/file.xml
+$java -cp test-avdonin-1.0-SNAPSHOT.jar com.test.Main -in /path/to/file.csv -out /path/to/file.xml
 
 In this assignment your task is to write a Java program that would calculate the results of a Decathlon competition.
 
